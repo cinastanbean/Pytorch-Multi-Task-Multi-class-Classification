@@ -42,7 +42,7 @@ data_root_path
 **备注：**
 1. 通用的，而不是对任意问题都是最优的；
 2. 目的是集成分类问题诸多训练Tricks；
-3. 项目不再更新，止步于Gluon CV；（https://github.com/dmlc/gluon-cv，尽管他不是很完整。Ref: Bag of Tricks for Image Classification with Convolutional Neural Networks https://arxiv.org/abs/1812.01187v2）
+3. 项目不再更新，止步于Gluon CV；（https://github.com/dmlc/gluon-cv ，尽管他不是很完整。Ref: Bag of Tricks for Image Classification with Convolutional Neural Networks https://arxiv.org/abs/1812.01187v2 ）
 
 # 2. Pytorch Version Info
 
