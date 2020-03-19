@@ -54,6 +54,7 @@ data_root_path
         ├── class_1
         ├── class_2
         └── class_3
+
 ```
 
 ## 3.1 Train-Val Logs
@@ -138,8 +139,8 @@ Step 3. 在```/src``` & ```/src/vals```中查看训练日志和结果，日志�
 
 **裤型：**
 
-![](pics/style.png)
+![](images/style.png)
 
 **裤长：**
 
-![](pics/length.png)
+![](images/length.png)

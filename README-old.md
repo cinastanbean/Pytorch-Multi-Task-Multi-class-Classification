@@ -37,6 +37,7 @@ data_root_path
         ├── class_1
         ├── class_2
         └── class_3
+
 ```
 
 **备注：**
@@ -128,11 +129,7 @@ ptmat_dict = {
 
 **另，输出结果如果要用作半结构化信息时，采用归一化过的置信度值是欠妥的。**
 
-
-
 ## 3.3 日志文件保存为*.txt文件，使用Excel打开展示结果如下：
 
 ![](https://ws4.sinaimg.cn/large/006tNc79ly1fz1bikc8edj30ql0p8wid.jpg)
-
-
 
